@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="1tpSAFAI8DqzlKJ9l1wL">
-    <mxGraphModel dx="1662" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1628" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sayH4WmPccTSCsZ3k0pU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sayH4WmPccTSCsZ3k0pU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="-20" width="860" height="500" as="geometry" />
         </mxCell>
         <mxCell id="OLpDZRTyPZfpvjRXpju_-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -147,10 +147,10 @@
         <mxCell id="OQfUozQ1sIXenz_ohhjS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="650" y="174" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQfUozQ1sIXenz_ohhjS-3" value="DEV" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OQfUozQ1sIXenz_ohhjS-3" value="Dev" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="189" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OQfUozQ1sIXenz_ohhjS-5" value="Deployment to DEV environment from /dev branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OQfUozQ1sIXenz_ohhjS-5" value="Deployment to Dev environment from /dev branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="100" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfUozQ1sIXenz_ohhjS-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_A.svg;" parent="1" vertex="1">
@@ -180,10 +180,10 @@
         <mxCell id="OQfUozQ1sIXenz_ohhjS-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_A.svg;" parent="1" vertex="1">
           <mxGeometry x="510" y="315" width="31.82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OQfUozQ1sIXenz_ohhjS-19" value="PROD" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OQfUozQ1sIXenz_ohhjS-19" value="Prod" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="437.5" y="345" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OQfUozQ1sIXenz_ohhjS-20" value="Deployment to PROD from /main branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OQfUozQ1sIXenz_ohhjS-20" value="Deployment to Prod from /main branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfUozQ1sIXenz_ohhjS-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -213,7 +213,7 @@
         <mxCell id="8qqBLikPp4UA0LEXPai9-1" value="Ops Team" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="15" y="332.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sayH4WmPccTSCsZ3k0pU-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="sayH4WmPccTSCsZ3k0pU-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="285" y="270" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
