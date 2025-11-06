@@ -150,7 +150,7 @@
         <mxCell id="OQfUozQ1sIXenz_ohhjS-3" value="Dev" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="189" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OQfUozQ1sIXenz_ohhjS-5" value="Deployment to Dev environment from /dev branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OQfUozQ1sIXenz_ohhjS-5" value="Deployment to Dev environment from /develop branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="100" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfUozQ1sIXenz_ohhjS-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_A.svg;" parent="1" vertex="1">
