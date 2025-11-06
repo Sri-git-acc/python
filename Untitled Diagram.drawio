@@ -141,14 +141,14 @@
         <mxCell id="OQfUozQ1sIXenz_ohhjS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OQfUozQ1sIXenz_ohhjS-2" target="OQfUozQ1sIXenz_ohhjS-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OQfUozQ1sIXenz_ohhjS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="OQfUozQ1sIXenz_ohhjS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="650" y="174" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OQfUozQ1sIXenz_ohhjS-3" value="DEV" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="189" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfUozQ1sIXenz_ohhjS-5" value="Deployment to DEV environment from /dev branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="625" y="100" width="170" height="30" as="geometry" />
+          <mxGeometry x="640" y="100" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfUozQ1sIXenz_ohhjS-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_A.svg;" parent="1" vertex="1">
           <mxGeometry x="750" y="160" width="31.82" height="30" as="geometry" />
@@ -156,7 +156,7 @@
         <mxCell id="OQfUozQ1sIXenz_ohhjS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OQfUozQ1sIXenz_ohhjS-10" target="OQfUozQ1sIXenz_ohhjS-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OQfUozQ1sIXenz_ohhjS-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="OQfUozQ1sIXenz_ohhjS-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="650" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OQfUozQ1sIXenz_ohhjS-11" value="UAT" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
@@ -165,7 +165,7 @@
         <mxCell id="OQfUozQ1sIXenz_ohhjS-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_A.svg;" parent="1" vertex="1">
           <mxGeometry x="750" y="315" width="31.82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OQfUozQ1sIXenz_ohhjS-15" value="Deployment to UAT from /dev branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OQfUozQ1sIXenz_ohhjS-15" value="Deployment to UAT from /uat branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="721.8199999999999" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfUozQ1sIXenz_ohhjS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OQfUozQ1sIXenz_ohhjS-16" target="OQfUozQ1sIXenz_ohhjS-21" edge="1">
