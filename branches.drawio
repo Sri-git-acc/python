@@ -281,6 +281,9 @@
         <mxCell id="ob7VARg4iTqqPT86VWX8-160" value="PR" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="190" width="45" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="ob7VARg4iTqqPT86VWX8-163" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Branching Strategy&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="50" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
