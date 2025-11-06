@@ -147,7 +147,7 @@
         <mxCell id="OQfUozQ1sIXenz_ohhjS-3" value="DEV" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="189" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OQfUozQ1sIXenz_ohhjS-5" value="Deployment to DEV environment from /feature branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OQfUozQ1sIXenz_ohhjS-5" value="Deployment to DEV environment from /dev branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="625" y="100" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfUozQ1sIXenz_ohhjS-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_A.svg;" parent="1" vertex="1">
@@ -165,7 +165,7 @@
         <mxCell id="OQfUozQ1sIXenz_ohhjS-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_A.svg;" parent="1" vertex="1">
           <mxGeometry x="750" y="315" width="31.82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OQfUozQ1sIXenz_ohhjS-15" value="Deployment to UAT from /resease branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OQfUozQ1sIXenz_ohhjS-15" value="Deployment to UAT from /dev branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="721.8199999999999" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfUozQ1sIXenz_ohhjS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OQfUozQ1sIXenz_ohhjS-16" target="OQfUozQ1sIXenz_ohhjS-21" edge="1">
@@ -210,7 +210,7 @@
         <mxCell id="OQfUozQ1sIXenz_ohhjS-32" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" parent="1" vertex="1">
           <mxGeometry x="285" y="260" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8qqBLikPp4UA0LEXPai9-1" value="Ops Team" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8qqBLikPp4UA0LEXPai9-1" value="Ops Team" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="15" y="332.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
